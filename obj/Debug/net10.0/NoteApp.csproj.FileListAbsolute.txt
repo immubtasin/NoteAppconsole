@@ -1,0 +1,14 @@
+D:\NoteApp\bin\Debug\net10.0\NoteApp.exe
+D:\NoteApp\bin\Debug\net10.0\NoteApp.deps.json
+D:\NoteApp\bin\Debug\net10.0\NoteApp.runtimeconfig.json
+D:\NoteApp\bin\Debug\net10.0\NoteApp.dll
+D:\NoteApp\bin\Debug\net10.0\NoteApp.pdb
+D:\NoteApp\obj\Debug\net10.0\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoteApp\obj\Debug\net10.0\NoteApp.AssemblyInfoInputs.cache
+D:\NoteApp\obj\Debug\net10.0\NoteApp.AssemblyInfo.cs
+D:\NoteApp\obj\Debug\net10.0\NoteApp.csproj.CoreCompileInputs.cache
+D:\NoteApp\obj\Debug\net10.0\NoteApp.dll
+D:\NoteApp\obj\Debug\net10.0\refint\NoteApp.dll
+D:\NoteApp\obj\Debug\net10.0\NoteApp.pdb
+D:\NoteApp\obj\Debug\net10.0\NoteApp.genruntimeconfig.cache
+D:\NoteApp\obj\Debug\net10.0\ref\NoteApp.dll
